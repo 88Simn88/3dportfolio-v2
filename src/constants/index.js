@@ -188,6 +188,20 @@ export const projects = [
     },
     {
         iconUrl: "P",
+        theme: 'btn-back-black',
+        name: 'Petsblog',
+        description: "Web plattform where you can find all the information that you need for your pets. ",
+        link: "https://petsblog-sim.netlify.app",
+    },
+    {
+        iconUrl: "C-G",
+        theme: 'btn-back-yellow',
+        name: 'Card Game',
+        description: "A Memotest game built with React and Javascript Using an API dinamicly.",
+        link: "https://cardgame-sim.netlify.app/",
+    },
+    {
+        iconUrl: "P",
         theme: 'btn-back-green',
         name: 'Pokedex',
         description: "Web-based platform that allows users to search and read information about differents pokemons. ",
@@ -208,17 +222,33 @@ export const projects = [
         link: "https://rickandmorty-sim.netlify.app",
     },
     {
-        iconUrl: "P",
-        theme: 'btn-back-black',
-        name: 'Petsblog',
-        description: "Web plattform where you can find all the information that you need for your pets. ",
-        link: "https://petsblog-sim.netlify.app",
+        iconUrl: "U-C",
+        theme: 'btn-back-yellow',
+        name: 'Users CRUD',
+        description: "App for the creation and modification of users in the database. Built with React and Javascript.",
+        link: "https://users-crud-sim.netlify.app/",
     },
     {
-        iconUrl: "W-A",
-        theme: 'btn-back-yellow',
-        name: 'Wheather App',
-        description: "Web app that allows users to have information about weather, searching for location and name.  ",
-        link: "https://weather-app-sim.netlify.app",
-    }
+        iconUrl: "E-C",
+        theme: 'btn-back-red',
+        name: 'E-Commerce API',
+        description: 'E-Commerce API built with Node.js, whit testing of the differents endpoints.',
+        link: 'https://github.com/88Simn88/e-commerce-api',
+    },
+    {
+        iconUrl: "M",
+        theme: 'btn-back-black',
+        name: 'Movies API',
+        description: "API with different information about Movies, with testing of the differents endpoints. ",
+        link: "https://github.com/88Simn88/movies-crud-front",
+    },
+    {
+        iconUrl: "U",
+        theme: 'btn-back-green',
+        name: 'Users API',
+        description: "API with information about users and with testing of the differents endpoints. ",
+        link: " https://github.com/88Simn88/Users-crud-back ",
+    },
+    
 ];
+
