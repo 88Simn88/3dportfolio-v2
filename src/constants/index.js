@@ -201,6 +201,13 @@ export const projects = [
         link: "https://cardgame-sim.netlify.app/",
     },
     {
+        iconUrl: "L-P",
+        theme: 'btn-back-orange',
+        name: 'Little Piano',
+        description: "Web application built with React. It allows you to play a piano, change the volume and the oscilators. ",
+        link: "https://piano-react-sim.netlify.app/",
+    },
+    {
         iconUrl: "P",
         theme: 'btn-back-green',
         name: 'Pokedex',
