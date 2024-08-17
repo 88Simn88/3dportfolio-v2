@@ -187,6 +187,14 @@ export const projects = [
         link: 'https://cabinaslove.netlify.app',
     },
     {
+        iconUrl: "P-B",
+        theme: "btn-back-pink",
+        name: "Personal Blog",
+        description: "Personal web site built with react, where you can see videos, download files and use an MP3 audio converter.",
+        link: "https://personalblog-sim.netlify.app/#/"
+    },
+    
+    {
         iconUrl: "P",
         theme: 'btn-back-black',
         name: 'Petsblog',
